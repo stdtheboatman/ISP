@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  dllmain.cpp
+  myLib.cpp
+C:\Users\egork\source\repos\TestDllExec\myLibDLL\myLib.cpp(6,32): warning C4273: Min: несовместимое связывание dll
+C:\Users\egork\source\repos\TestDllExec\myLibDLL\myLib.h(11,35): message : см. предыдущее определение "Min"
+C:\Users\egork\source\repos\TestDllExec\myLibDLL\myLib.cpp(10,32): warning C4273: Max: несовместимое связывание dll
+C:\Users\egork\source\repos\TestDllExec\myLibDLL\myLib.h(13,35): message : см. предыдущее определение "Max"
+C:\Users\egork\source\repos\TestDllExec\myLibDLL\myLib.cpp(14,23): warning C4273: Pow: несовместимое связывание dll
+C:\Users\egork\source\repos\TestDllExec\myLibDLL\myLib.h(15,33): message : см. предыдущее определение "Pow"
+C:\Users\egork\source\repos\TestDllExec\myLibDLL\myLib.cpp(23,23): warning C4273: Gcd: несовместимое связывание dll
+C:\Users\egork\source\repos\TestDllExec\myLibDLL\myLib.h(17,33): message : см. предыдущее определение "Gcd"
+  Создание кода...
+     Создается библиотека C:\Users\egork\source\repos\TestDllExec\x64\Debug\myLib.lib и объект C:\Users\egork\source\repos\TestDllExec\x64\Debug\myLib.exp
+  myLibDLL.vcxproj -> C:\Users\egork\source\repos\TestDllExec\x64\Debug\myLib.dll

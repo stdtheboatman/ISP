@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (myLibDLL.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  dllmain.cpp
+  myLib.cpp
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fourth\TestDllExec\myLibDLL\myLib.cpp(6,32): warning C4273: Min: несовместимое связывание dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fourth\TestDllExec\myLibDLL\myLib.h(11,35): message : см. предыдущее определение "Min"
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fourth\TestDllExec\myLibDLL\myLib.cpp(10,32): warning C4273: Max: несовместимое связывание dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fourth\TestDllExec\myLibDLL\myLib.h(13,35): message : см. предыдущее определение "Max"
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fourth\TestDllExec\myLibDLL\myLib.cpp(14,23): warning C4273: Pow: несовместимое связывание dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fourth\TestDllExec\myLibDLL\myLib.h(15,33): message : см. предыдущее определение "Pow"
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fourth\TestDllExec\myLibDLL\myLib.cpp(24,23): warning C4273: Gcd: несовместимое связывание dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fourth\TestDllExec\myLibDLL\myLib.h(17,33): message : см. предыдущее определение "Gcd"
+  Создание кода...
+     Создается библиотека C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fourth\TestDllExec\Debug\myLib.lib и объект C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fourth\TestDllExec\Debug\myLib.exp
+  myLibDLL.vcxproj -> C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fourth\TestDllExec\Debug\myLib.dll
