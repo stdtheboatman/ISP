@@ -1,0 +1,16 @@
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\bin\Debug\net5.0\Fifth.exe
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\bin\Debug\net5.0\Fifth.deps.json
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\bin\Debug\net5.0\Fifth.runtimeconfig.json
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\bin\Debug\net5.0\Fifth.runtimeconfig.dev.json
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\bin\Debug\net5.0\Fifth.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\bin\Debug\net5.0\ref\Fifth.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\bin\Debug\net5.0\Fifth.pdb
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\obj\Debug\net5.0\Fifth.csprojAssemblyReference.cache
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\obj\Debug\net5.0\Fifth.GeneratedMSBuildEditorConfig.editorconfig
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\obj\Debug\net5.0\Fifth.AssemblyInfoInputs.cache
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\obj\Debug\net5.0\Fifth.AssemblyInfo.cs
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\obj\Debug\net5.0\Fifth.csproj.CoreCompileInputs.cache
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\obj\Debug\net5.0\Fifth.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\obj\Debug\net5.0\ref\Fifth.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\obj\Debug\net5.0\Fifth.pdb
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Fifth\Fifth\obj\Debug\net5.0\Fifth.genruntimeconfig.cache
