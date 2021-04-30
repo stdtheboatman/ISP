@@ -1,0 +1,16 @@
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\obj\Debug\net5.0\Sixth.csprojAssemblyReference.cache
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\obj\Debug\net5.0\Sixth.GeneratedMSBuildEditorConfig.editorconfig
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\obj\Debug\net5.0\Sixth.AssemblyInfoInputs.cache
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\obj\Debug\net5.0\Sixth.AssemblyInfo.cs
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\obj\Debug\net5.0\Sixth.csproj.CoreCompileInputs.cache
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\bin\Debug\net5.0\Sixth.exe
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\bin\Debug\net5.0\Sixth.deps.json
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\bin\Debug\net5.0\Sixth.runtimeconfig.json
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\bin\Debug\net5.0\Sixth.runtimeconfig.dev.json
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\bin\Debug\net5.0\Sixth.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\bin\Debug\net5.0\ref\Sixth.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\bin\Debug\net5.0\Sixth.pdb
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\obj\Debug\net5.0\Sixth.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\obj\Debug\net5.0\ref\Sixth.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\obj\Debug\net5.0\Sixth.pdb
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Sixth\Sixth\Sixth\obj\Debug\net5.0\Sixth.genruntimeconfig.cache
