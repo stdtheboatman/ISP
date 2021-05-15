@@ -1,0 +1,16 @@
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\bin\Debug\net5.0\FractionLab.exe
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\bin\Debug\net5.0\FractionLab.deps.json
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\bin\Debug\net5.0\FractionLab.runtimeconfig.json
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\bin\Debug\net5.0\FractionLab.runtimeconfig.dev.json
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\bin\Debug\net5.0\FractionLab.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\bin\Debug\net5.0\ref\FractionLab.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\bin\Debug\net5.0\FractionLab.pdb
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\obj\Debug\net5.0\FractionLab.csprojAssemblyReference.cache
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\obj\Debug\net5.0\FractionLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\obj\Debug\net5.0\FractionLab.AssemblyInfoInputs.cache
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\obj\Debug\net5.0\FractionLab.AssemblyInfo.cs
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\obj\Debug\net5.0\FractionLab.csproj.CoreCompileInputs.cache
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\obj\Debug\net5.0\FractionLab.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\obj\Debug\net5.0\ref\FractionLab.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\obj\Debug\net5.0\FractionLab.pdb
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Seventh\FractionLab\FractionLab\obj\Debug\net5.0\FractionLab.genruntimeconfig.cache
