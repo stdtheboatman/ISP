@@ -1,0 +1,16 @@
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\bin\Debug\net5.0\Eighth.exe
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\bin\Debug\net5.0\Eighth.deps.json
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\bin\Debug\net5.0\Eighth.runtimeconfig.json
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\bin\Debug\net5.0\Eighth.runtimeconfig.dev.json
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\bin\Debug\net5.0\Eighth.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\bin\Debug\net5.0\ref\Eighth.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\bin\Debug\net5.0\Eighth.pdb
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\obj\Debug\net5.0\Eighth.csprojAssemblyReference.cache
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\obj\Debug\net5.0\Eighth.GeneratedMSBuildEditorConfig.editorconfig
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\obj\Debug\net5.0\Eighth.AssemblyInfoInputs.cache
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\obj\Debug\net5.0\Eighth.AssemblyInfo.cs
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\obj\Debug\net5.0\Eighth.csproj.CoreCompileInputs.cache
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\obj\Debug\net5.0\Eighth.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\obj\Debug\net5.0\ref\Eighth.dll
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\obj\Debug\net5.0\Eighth.pdb
+C:\theboatman\Coding\Unik\Labs\ISP\Labs\Eighth\Eighth\Eighth\obj\Debug\net5.0\Eighth.genruntimeconfig.cache
